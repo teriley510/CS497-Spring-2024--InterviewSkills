@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class TwoSum {
     
     public static void twoSum(int[] nums, int target ) {
